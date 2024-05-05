@@ -7,7 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-
 ### Application Usage
 
 1. Start the development server: `npm start`
@@ -31,3 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 2. Redux Toolkit
 3. Material-UI
 4. react-infinite-scroll-component
+
+### Timeline
+
+4 May, 2024 (Saturday) - 5 May, 2024 (Sunday)
